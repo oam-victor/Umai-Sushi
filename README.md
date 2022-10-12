@@ -9,5 +9,5 @@ This will be a new sushi restaurant that me and my friends on discord will contr
 4. Pabu
 5. daebraek
 
-
 [Link to our Discord!](https://discord.gg/tYP6c7T3H2)
+
