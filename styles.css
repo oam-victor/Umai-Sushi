@@ -18,10 +18,15 @@
     height:7vh;
 }
 
-.menu-button{
+.menu-button-container{
     grid-area: lefty;
     align-self: center;
     margin-left: .6rem;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.menu-button{
     color: var(--button-color);
 }
 
@@ -31,6 +36,8 @@
     align-self: center;
     color: var(--button-color);
     flex: 2;
+    cursor: pointer;
+    transition: 0.2s;
 }
 
 .loc-button-container{
@@ -47,4 +54,18 @@
     font-size: .6rem;
     border: 1px solid;
     border-radius: .2rem;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.loc-button:hover{
+    -webkit-filter: brightness(70%);
+}
+
+.menu-button-container:hover{
+    -webkit-filter: brightness(70%);
+}
+
+.rest-title:hover{
+    -webkit-filter: brightness(70%);
 }
