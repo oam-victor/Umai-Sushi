@@ -1,14 +1,23 @@
-# Umai-Sushi
-This will be a new sushi restaurant that me and my friends on discord will contribute on!
+# 🍣 Umai-Sushi 
+Umai-Sushi restaurant website;
 
-##Contributers:
+## 🖥️ Info about the project
+* This is a front-end project with the goal of providing the contributers the opportunity to work in a group using github.
+* Besides the opportunity of working with guthub, the project aims to develop the HTML and CSS skills of the contributers.
 
-1. WingManUp06
-2. BenHumphrey
-3. oam-victor
-4. Pabu
-5. daebraek
+## 📘 What is in the project?
+* The project was developed with flexbox.
 
-[Link to our discord!](https://discord.gg/tYP6c7T3H2)
+## 🛠️ Tools
+* [HTML](https://www.w3schools.com/html/html_basic.asp)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [GIT](https://git-scm.com/)
 
+## 👨‍💻 Contributers:
+- [WingManUp06](https://github.com/WingManUp06)
+- [BenHumphrey](https://github.com/)
+- [oam-victor](https://github.com/oam-victor)
+- [Pabu](https://github.com/)
+- [daebraek](https://github.com/)
 
+[Link to our Discord!](https://discord.gg/tYP6c7T3H2)
