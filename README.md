@@ -11,6 +11,7 @@ Umai-Sushi restaurant website;
 ## 🛠️ Tools
 * [HTML](https://www.w3schools.com/html/html_basic.asp)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [GIT](https://git-scm.com/)
 
 ## 👨‍💻 Contributers:
@@ -19,4 +20,5 @@ Umai-Sushi restaurant website;
 - [oam-victor](https://github.com/oam-victor)
 
 [Link to our Discord!](https://discord.gg/tYP6c7T3H2)
+
 
